@@ -33,65 +33,59 @@ var APP_DATA = {
         {
           "yaw": -2.367005733617672,
           "pitch": -0.04286845815116713,
-          "title": "RevTouch",
-          "text": "Some revtouch instructions here<div><br></div><div><br></div><div><br></div>"
+          "title": "86-inch RevTouch touchscreen display",
+          "text": "The styluses magnetically attach to the bottom of the screen."
         },
         {
           "yaw": -1.5485601208777755,
           "pitch": 0.3060350158717444,
           "title": "Cables",
-          "text": "HDMI, VGA, USB<div><br></div><div><br></div>"
+          "text": "HDMI and USB."
         },
         {
           "yaw": -1.2139231265609602,
           "pitch": 0.12200553845116424,
           "title": "Podium",
-          "text": "Wireless keyboard available here"
+          "text": "Wireless keyboard and camera remote available here."
         },
         {
           "yaw": -0.9341916441944811,
           "pitch": 0.09514134226548521,
           "title": "Whiteboard",
-          "text": "RevTouch pen/stylus kept here"
+          "text": "Non-permanent markers and erasers available here."
         },
         {
           "yaw": -0.39029222403226704,
           "pitch": -0.25670352812609565,
-          "title": "Speaker",
-          "text": "Text"
+          "title": "Nureva HDL300 Soundbar and Microphone",
+          "text": "This unit captures sound across the room and cancels out undesirable sounds and echoes."
         },
         {
           "yaw": -0.12367458876154735,
           "pitch": 0.13843222259460397,
-          "title": "Disinfectant/Cleaning supply",
+          "title": "Disinfection/sanitation station and supplies.",
           "text": ""
         },
         {
           "yaw": 1.3127177088880089,
           "pitch": -0.15206280109549652,
-          "title": "Camera and Microphone",
-          "text": "Text"
+          "title": "Logitech Rally PTZ 4K Camera",
+          "text": "The camera comes with a remote and is remotely controllable."
         },
         {
           "yaw": -2.089100930916059,
           "pitch": 0.5237566970398735,
           "title": "Presenter Area",
-          "text": "Lecturer stands here facing the webcam installed opposite the Revtouch"
-        },
-        {
-          "yaw": -2.968005858346025,
-          "pitch": -0.12639656349566408,
-          "title": "Help!",
-          "text": "Contact &lt;&gt; for help"
+          "text": "Lecturer stands here facing the webcam installed on the opposite wall."
         }
       ]
     }
   ],
-  "name": "LM108 AV Room",
+  "name": "LM108 Classroom",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
     "fullscreenButton": true,
-    "viewControlButtons": true
+    "viewControlButtons": false
   }
 };
